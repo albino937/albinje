@@ -6,7 +6,7 @@ My name is Albin Joseph, I am a research scholar working on observational cosmol
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=debian&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Code-Cuda-informational?style=flat&logo=nivdia&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-Cuda-informational?style=flat&logo=nvidia&logoColor=white&color=3776AB)
 ![](https://img.shields.io/badge/Code-Fortran-informational?style=flat&logo=fortran&logoColor=white&color=9558B2)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=00979D)
 ![](https://img.shields.io/badge/Code-IDL-informational?style=flat&logo=IDL&logoColor=white&color=2496ED)
