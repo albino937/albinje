@@ -1,4 +1,4 @@
-### Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="20px">
+### Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
 My name is Albin Joseph, I am a research scholar working on observational cosmology at [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in/). I enjoy physics, coding in different languages and a tech enthusiast. 
 
 ### Some of my favourite tools
@@ -12,6 +12,7 @@ My name is Albin Joseph, I am a research scholar working on observational cosmol
 ![](https://img.shields.io/badge/Code-IDL-informational?style=flat&logo=IDL&logoColor=white&color=2496ED)
 ![](https://img.shields.io/badge/Code-LaTeX-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Jupyter-informational?style=flat&logo=jupyter&logoColor=white&color=F37626)
+![](https://img.shields.io/badge/Code-Mathematica-informational?style=flat&logo=mathematica&logoColor=white&color=A81D33)
 ![](https://img.shields.io/badge/Editor-Vim-informational?style=flat&logo=vim&logoColor=white&color=019733)
 
 
