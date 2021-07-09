@@ -1,5 +1,5 @@
 ### Hey <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">
-My name is Albin Joseph, I am a doctoral candidate working on observational cosmology at [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in/). My research areas includes observational constraints on the dark energy models and exact solutions of cosmological models. I enjoy physics, coding in different languages and also a tech enthusiast. 
+My name is Albin Joseph, I am a doctoral candidate working on observational cosmology at [Indian Institute of Science Education and Research Bhopal](https://www.iiserb.ac.in/). My work focuses on understanding the nature of [dark energy](https://en.wikipedia.org/wiki/Dark_energy) which is responsible for the present accelerated expansion of our universe. My research areas includes observational constraints on the dark energy models, exact solutions of cosmological models and applyimg machine learning techniques in the cosmological scenarios. I enjoy physics, coding in different languages and GPU computing. Other than that, I love adventure and also a passionate badminton player.
 
 ### Some of my favourite tools
 
